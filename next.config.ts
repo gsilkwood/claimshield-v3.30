@@ -21,7 +21,6 @@ const nextConfig: NextConfig = {
   serverExternalPackages: ['@react-pdf/renderer', 'satori', 'canvas'],
   output: 'standalone',
   transpilePackages: ['motion'],
-  turbopack: {},
 };
 
 export default nextConfig;

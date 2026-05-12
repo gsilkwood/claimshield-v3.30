@@ -75,7 +75,7 @@ export const DemandLetterDocument = ({ data }: { data: any }) => {
 
         <View style={{ marginBottom: 15 }}>
           <Text style={{ fontSize: 10 }}>
-            {openingStatement} Although the vehicle has been restored to its pre-accident physical condition, it now suffers from "inherent diminished value" due to its permanent accident history.
+            {openingStatement} Although the vehicle has been restored to its pre-accident physical condition, it now suffers from &quot;inherent diminished value&quot; due to its permanent accident history.
           </Text>
         </View>
 
@@ -93,7 +93,7 @@ export const DemandLetterDocument = ({ data }: { data: any }) => {
 
         <View style={{ marginBottom: 15 }}>
           <Text style={{ fontSize: 10 }}>
-            Under Georgia law, specifically the landmark ruling in <Text style={styles.bold}>{GA_LEGAL_CITATIONS.LANDMARK_FIRST_PARTY}</Text>, insurers are required to compensate for the loss in value that repairs cannot restore. Furthermore, the Georgia Department of Insurance has clarified that the "17c" formula is not a mandatory method and often fails to reflect true market conditions.
+            Under Georgia law, specifically the landmark ruling in <Text style={styles.bold}>{GA_LEGAL_CITATIONS.LANDMARK_FIRST_PARTY}</Text>, insurers are required to compensate for the loss in value that repairs cannot restore. Furthermore, the Georgia Department of Insurance has clarified that the &quot;17c&quot; formula is not a mandatory method and often fails to reflect true market conditions.
           </Text>
         </View>
 

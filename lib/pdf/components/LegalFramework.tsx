@@ -25,7 +25,7 @@ export const LegalFramework = ({ data }: { data: any }) => (
 
         <View style={{ marginBottom: 15 }}>
           <Text style={styles.h3}>Third-Party Claims</Text>
-          <Text style={{ marginBottom: 4 }}>For claims against an at-fault driver's insurance company, the case of <Text style={styles.bold}>{GA_LEGAL_CITATIONS.LANDMARK_THIRD_PARTY}</Text> confirms that the measure of damages is the difference between the fair market value of the vehicle immediately before the collision and its fair market value immediately after the collision.</Text>
+          <Text style={{ marginBottom: 4 }}>For claims against an at-fault driver&apos;s insurance company, the case of <Text style={styles.bold}>{GA_LEGAL_CITATIONS.LANDMARK_THIRD_PARTY}</Text> confirms that the measure of damages is the difference between the fair market value of the vehicle immediately before the collision and its fair market value immediately after the collision.</Text>
           <Text style={styles.legalText}>Statutory Authority: {GA_LEGAL_CITATIONS.THIRD_PARTY_STATUTE}</Text>
         </View>
 

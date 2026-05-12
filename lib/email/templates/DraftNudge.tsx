@@ -33,11 +33,11 @@ export const DraftNudgeEmail = ({
           <Heading className="text-2xl font-bold text-blue-600 mb-5">ClaimShield DV</Heading>
           <Text className="text-lg text-gray-800">Hi {userName},</Text>
           <Text className="text-gray-600 leading-relaxed">
-            We noticed you started a diminished value appraisal for your <span className="font-bold">{vehicleName}</span> but haven't finished it yet.
+            We noticed you started a diminished value appraisal for your <span className="font-bold">{vehicleName}</span> but haven&apos;t finished it yet.
           </Text>
           
           <Text className="text-gray-600 mt-4">
-            Don't leave money on the table. Most insurance companies won't offer you diminished value unless you ask for it with a professional appraisal.
+            Don&apos;t leave money on the table. Most insurance companies won&apos;t offer you diminished value unless you ask for it with a professional appraisal.
           </Text>
 
           <Section className="text-center mt-8">

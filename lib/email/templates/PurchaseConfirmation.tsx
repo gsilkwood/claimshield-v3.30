@@ -44,7 +44,7 @@ export const PurchaseConfirmationEmail = ({
           </Section>
 
           <Text className="text-gray-600 mt-4">
-            Our system is now generating your comprehensive report. You will receive another notification as soon as it's ready for download.
+            Our system is now generating your comprehensive report. You will receive another notification as soon as it&apos;s ready for download.
           </Text>
 
           <Hr className="border-gray-200 my-8" />

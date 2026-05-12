@@ -112,7 +112,7 @@ export default function AppraisalsPage() {
           <div className="rounded-xl border border-dashed border-gray-300 bg-white px-6 py-16 text-center">
             <FileText className="mx-auto h-12 w-12 text-gray-300" />
             <h3 className="mt-2 text-sm font-medium text-gray-900">No completed appraisals</h3>
-            <p className="mt-1 text-sm text-gray-500">You haven't generated any reports yet.</p>
+            <p className="mt-1 text-sm text-gray-500">You haven&apos;t generated any reports yet.</p>
           </div>
         )}
       </div>

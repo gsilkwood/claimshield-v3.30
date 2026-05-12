@@ -86,7 +86,7 @@ export function Step6ReviewCalculate({ data, onNext, onBack, appraisalId }: { da
           <div className="rounded-xl border border-red-100 bg-red-50 p-6 text-center">
             <AlertCircle className="mx-auto h-12 w-12 text-red-400" />
             <h3 className="mt-2 text-sm font-medium text-red-900">Calculation failed</h3>
-            <p className="mt-1 text-sm text-red-700">We couldn't compute the DV. Please ensure you have selected at least 3 comparables in each category.</p>
+            <p className="mt-1 text-sm text-red-700">We couldn&apos;t compute the DV. Please ensure you have selected at least 3 comparables in each category.</p>
             <button
               onClick={handleCalculate}
               className="mt-4 rounded-md bg-red-600 px-4 py-2 text-sm font-medium text-white hover:bg-red-700"
